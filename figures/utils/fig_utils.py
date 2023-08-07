@@ -28,6 +28,7 @@ urls = {
     'LY6C1_joint_umap_l1_l2.csv': 'https://zenodo.org/record/7689795/files/LY6C1_joint_umap_l1_l2.csv?download=1',
     'LY6A_SVAE_training_predictions.csv': 'https://zenodo.org/record/7689795/files/LY6A_SVAE_training_predictions.csv?download=1',
     'LY6C1_SVAE_training_predictions.csv': 'https://zenodo.org/record/7689795/files/LY6C1_SVAE_training_predictions.csv?download=1',
+    'pulldown_assay_counts.csv': 'https://zenodo.org/record/8222089/files/pulldown_assay_counts.csv?download=1',
 }
 
 def download_data(filename, url):
