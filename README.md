@@ -41,5 +41,5 @@ pip3 install -r requirements.txt
 
 # Data
 
-All relevant data is stored on Zenodo at [DOI 10.5281/zenodo.7689794](https://doi.org/10.5281/zenodo.7689794). Once downloaded, data files should be put into `AAV_capsid_receptor/data` - by default, figure-generation notebooks will search for data there.
+All relevant data is stored on Zenodo at [DOI 10.5281/zenodo.8222089](https://doi.org/10.5281/zenodo.8222089). Once downloaded, data files should be put into `AAV_capsid_receptor/data` - by default, figure-generation notebooks will search for data there.
 
