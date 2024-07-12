@@ -41,10 +41,5 @@ pip3 install -r requirements.txt
 
 # Data
 
-## SVAE training data 
-Sequencing read count data for LY6A-Fc and LY6C1-Fc are in [`AAV_capsid_receptor/data`](https://github.com/vector-engineering/AAV_capsid_receptor/tree/main/data).
-
-## Figures data
-
 All relevant data is stored on Zenodo at [DOI 10.5281/zenodo.7689794](https://doi.org/10.5281/zenodo.7689794). Once downloaded, data files should be put into `AAV_capsid_receptor/data` - by default, figure-generation notebooks will search for data there.
 
