@@ -1,4 +1,7 @@
 # Targeting AAV vectors to the CNS via de novo engineered capsid-receptor interactions
+
+Now published in PLOS Biology! [https://doi.org/10.1371/journal.pbio.3002112](https://doi.org/10.1371/journal.pbio.3002112)
+
 Code and documentation supporting "Targeting AAV vectors to the CNS via de novo engineered capsid-receptor interactions", including data, SVAE-based variant generation method, and figure-generation code.
 
 ## Contents
